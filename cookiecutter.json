@@ -1,0 +1,6 @@
+{
+    "project_name": "Awesome project",
+    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+    "project_requirements": "",
+    "reference_url": ""
+}

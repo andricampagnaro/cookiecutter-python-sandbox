@@ -1,0 +1,6 @@
+ipdb
+tqdm
+
+{%- for requirement in cookiecutter.project_requirements.split(' ') %}
+{{ requirement }}
+{%- endfor %}
