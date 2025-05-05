@@ -12,6 +12,6 @@ Cookiecutter 1.4.0 or higher):
 
     pip install -U cookiecutter
 
-Generate a Python package project::
+Generate a Python sandbox project:
 
     cookiecutter https://github.com/andricampagnaro/cookiecutter-python-sandbox.git
